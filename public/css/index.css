@@ -1,0 +1,28 @@
+.topHeader {
+	background-color: #fff;
+	border-bottom: 1px solid black;
+	height: 40px;
+	float: left;
+}
+.topHeaderLeft ul {
+	list-style-type: none;
+}
+.topHeaderLeft ul li {
+	float: left;
+	margin: .25em;
+	list-style-type: none;
+}
+.topHeaderIcons {
+	float: right;
+	text-align: right;
+}
+.headerPic {
+	height: 300px;
+}
+.portfolio {
+	float: left;
+}
+.portCol {
+	float: left;
+	padding: 1em;
+}
